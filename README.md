@@ -4,6 +4,6 @@ some another text in file
 
 # some heading
 Good morning
-GOING WITH GIT
+THIS IS CAUSING TROUBLE
 
  its fun!
